@@ -1,0 +1,26 @@
+body{
+    background-color:rgba(177, 83, 122, 0.342);
+    color: rgb(175, 79, 50);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+#RestauranteElasNaTech06{width:99%;
+                         border: 10px solid rgb(70, 146, 117);}
+                     
+h1{color: rgb(175, 79, 50);}
+
+#parte1{background-color: rgb(33, 116, 81);
+        color:rgba(252, 252, 252, 0.815);
+        border: 10px solid rgb(175, 79, 50);
+        }
+
+#parte2{background-color: rgb(33, 116, 81);
+        color:rgba(252, 252, 252, 0.815);
+        border: 10px solid rgb(175, 79, 50);
+        }
+
+#parte3{background-color: rgb(33, 116, 81);
+        color: rgba(252, 252, 252, 0.815);
+        border: 10px solid rgb(175, 79, 50);
+        }       
